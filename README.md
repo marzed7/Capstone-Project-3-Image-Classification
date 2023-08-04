@@ -22,7 +22,7 @@
 
 ## Acknowledgements
 - We would like to acknowledge the following resources that were instrumental in the completion of this project:
-- - Source of Concrete Crack Dataset: [https://data.mendeley.com/public-files/datasets/5y9wdsg2zt/files/8a70d8a5-bce9-4291-bab9-b48cfb3e87c3/file_downloaded]
+  - Source of Concrete Crack Dataset: [https://data.mendeley.com/public-files/datasets/5y9wdsg2zt/files/8a70d8a5-bce9-4291-bab9-b48cfb3e87c3/file_downloaded]
   - MobileNetV2 architecture pre-trained on ImageNet
     
 Feel free to contribute, open issues, or provide feedback to help improve this project. Happy classifying!
