@@ -13,11 +13,11 @@
 
 ## Model Architecture
 - The architecture of the deep learning model used for binary image classification is as follows:
-- 1. Model architecture for 'imgclass.ipynb':
+- 1. Model architecture for `imgclass.ipynb`:
      ![image](https://github.com/marzed7/Capstone-Project-3-Image-Classification/assets/141207242/c358b486-66ca-46b9-bf9e-29195c4ee3b7)
 
 
-- 2. Model architecture for 'imgclass_transferlearning.ipynb':
+- 2. Model architecture for `imgclass_transferlearning.ipynb`:
      ![image](https://github.com/marzed7/Capstone-Project-3-Image-Classification/assets/141207242/8b2b6911-aa2a-48ff-a904-a6d7ee87ceb6)
 
 ## Acknowledgements
